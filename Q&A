@@ -1,0 +1,70 @@
+Here are the definitions of the algorithms used in your listed problems:
+
+
+---
+
+1. Backtracking
+
+> Definition: A general algorithmic technique for solving problems recursively by trying to build a solution incrementally and removing solutions that fail to satisfy the constraints at any point (i.e., “backtracking” to the previous step).
+
+
+
+
+---
+
+2. Depth First Search (DFS)
+
+> Definition: An uninformed search algorithm that explores as far down a branch as possible before backtracking, using a stack (either implicitly via recursion or explicitly).
+
+
+
+
+---
+
+3. Breadth First Search (BFS)
+
+> Definition: An uninformed search algorithm that explores all neighboring nodes at the present depth before moving on to nodes at the next depth level, using a queue.
+
+
+
+
+---
+
+4. Hill Climbing
+
+> Definition: A heuristic search algorithm that continuously moves in the direction of increasing value (uphill) to find the peak (goal), without considering the path cost.
+
+
+
+
+---
+
+5. Best First Search
+
+> Definition: A heuristic search algorithm that selects the next node to expand based on the lowest heuristic value, focusing on the most promising paths.
+
+
+
+
+---
+
+6. A (A Star) Search*
+
+> Definition: An informed search algorithm that finds the shortest path by combining the actual cost to reach a node (g(n)) and the estimated cost from the node to the goal (h(n)), using the evaluation function f(n) = g(n) + h(n).
+
+
+
+
+---
+
+7. Minimax Algorithm
+
+> Definition: A recursive algorithm used in decision-making and game theory to determine the optimal move for a player, assuming that the opponent also plays optimally to minimize the player’s score.
+
+
+
+
+---
+
+Would you like a table of these definitions for easy reference or printout?
+
